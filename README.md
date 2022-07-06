@@ -1,6 +1,9 @@
-# Pokémon Red and Blue [![Build Status][ci-badge]][ci]
+# Pokémon Red and Blue romhack [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Red and Blue.
+this will be a romhack built using the pret disassembly of Pokémon Red and Blue.
+
+original readme below
+#####
 
 It builds the following ROMs:
 
